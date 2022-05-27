@@ -3,7 +3,7 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 **Link to project:** https://wholetthedogsout.netlify.app/
 
-
+![image](https://raw.githubusercontent.com/LuisDFlores/LetTheDogsOut/main/img/websitepic.png)
 
 ## How It's Made:
 
