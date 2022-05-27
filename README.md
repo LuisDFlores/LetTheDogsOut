@@ -1,5 +1,6 @@
 # Let The Dogs Out
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+
+A project that enables a user to get a randomized meme dog image at the click of a button hosted on node.
 
 **Link to project:** https://wholetthedogsout.netlify.app/
 
@@ -12,7 +13,6 @@ Write a short sentence or two about this project and what it does. Be sure to in
 A node server was created to host the site. An array of meme dog images was created to which was randomized when the user presses on the button "woof". With the use of flexbox and css the website was styled to a simple yet organized UI.
 
 ## Optimizations
-*(optional)*
 
 More Images. To create and array of objects rather than of images to be able to include more information.  To improve code with practical coding conventions and simplify redundant code.
 
